@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Rishab 👋</h1>
 
 <p align="center">
-  <img src="7357cab65e07b418ac19d57694926180" width="400"/>
+  <img src="https://github.com/Rishab-Das/Rishab-Das/blob/main/7357cab65e07b418ac19d57694926180.jpg" width="400"/>
 </p>
 
 <p align="center">
